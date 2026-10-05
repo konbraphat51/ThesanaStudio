@@ -1,1 +1,3 @@
 # ThesanaStudio
+
+Thesana(เทศน์) = Sermon
